@@ -6,8 +6,11 @@
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/github/gif/black-dashboard.gif)
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ce7c2ce18337255288c3ce1f5634807928035a1c
 
 
 ## Table of Contents
@@ -127,3 +130,19 @@ If you have questions or need help integrating the product please [contact us]()
 - Licensed under MIT (https://github.com/creativetimofficial/black-dashboard/issues/blob/master/LICENSE.md)
 
 
+<<<<<<< HEAD
+=======
+
+## Useful Links
+
+- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
+
+##### ITS LIVE!
+
+https://olinda73.github.io/KXASCC/
+
+
+>>>>>>> ce7c2ce18337255288c3ce1f5634807928035a1c
