@@ -130,8 +130,6 @@ If you have questions or need help integrating the product please [contact us]()
 - Licensed under MIT (https://github.com/creativetimofficial/black-dashboard/issues/blob/master/LICENSE.md)
 
 
-<<<<<<< HEAD
-=======
 
 ## Useful Links
 
@@ -145,4 +143,3 @@ If you have questions or need help integrating the product please [contact us]()
 https://olinda73.github.io/KXASCC/
 
 
->>>>>>> ce7c2ce18337255288c3ce1f5634807928035a1c
