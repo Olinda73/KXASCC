@@ -224,7 +224,7 @@ blackDashboard = {
   showSidebarMessage: function(message) {
     try {
       $.notify({
-        icon: "tim-icons ui-1_bell-53",
+        icon: "olinda-icons ui-1_bell-53",
         message: message
       }, {
         type: 'info',

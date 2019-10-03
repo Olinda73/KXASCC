@@ -12692,7 +12692,7 @@ a.text-darker:focus {
 }
 
 .alert i.fa,
-.alert i.tim-icons {
+.alert i.olinda-icons {
   font-size: 1rem;
 }
 
@@ -13004,16 +13004,16 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .btn-group-sm>.btn.btn-icon .far,
 .btn.btn-icon.btn-sm .fas,
 .btn-group-sm>.btn.btn-icon .fas,
-.btn.btn-icon.btn-sm .tim-icons,
-.btn-group-sm>.btn.btn-icon .tim-icons,
+.btn.btn-icon.btn-sm .olinda-icons,
+.btn-group-sm>.btn.btn-icon .olinda-icons,
 .navbar .navbar-nav>a.btn.btn-icon.btn-sm .fa,
 .navbar .btn-group-sm.navbar-nav>a.btn.btn-icon .fa,
 .navbar .navbar-nav>a.btn.btn-icon.btn-sm .far,
 .navbar .btn-group-sm.navbar-nav>a.btn.btn-icon .far,
 .navbar .navbar-nav>a.btn.btn-icon.btn-sm .fas,
 .navbar .btn-group-sm.navbar-nav>a.btn.btn-icon .fas,
-.navbar .navbar-nav>a.btn.btn-icon.btn-sm .tim-icons,
-.navbar .btn-group-sm.navbar-nav>a.btn.btn-icon .tim-icons {
+.navbar .navbar-nav>a.btn.btn-icon.btn-sm .olinda-icons,
+.navbar .btn-group-sm.navbar-nav>a.btn.btn-icon .olinda-icons {
   font-size: 0.6875rem;
 }
 
@@ -13032,24 +13032,24 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .btn-group-lg>.btn.btn-icon .far,
 .btn.btn-icon.btn-lg .fas,
 .btn-group-lg>.btn.btn-icon .fas,
-.btn.btn-icon.btn-lg .tim-icons,
-.btn-group-lg>.btn.btn-icon .tim-icons,
+.btn.btn-icon.btn-lg .olinda-icons,
+.btn-group-lg>.btn.btn-icon .olinda-icons,
 .navbar .navbar-nav>a.btn.btn-icon.btn-lg .fa,
 .navbar .btn-group-lg.navbar-nav>a.btn.btn-icon .fa,
 .navbar .navbar-nav>a.btn.btn-icon.btn-lg .far,
 .navbar .btn-group-lg.navbar-nav>a.btn.btn-icon .far,
 .navbar .navbar-nav>a.btn.btn-icon.btn-lg .fas,
 .navbar .btn-group-lg.navbar-nav>a.btn.btn-icon .fas,
-.navbar .navbar-nav>a.btn.btn-icon.btn-lg .tim-icons,
-.navbar .btn-group-lg.navbar-nav>a.btn.btn-icon .tim-icons {
+.navbar .navbar-nav>a.btn.btn-icon.btn-lg .olinda-icons,
+.navbar .btn-group-lg.navbar-nav>a.btn.btn-icon .olinda-icons {
   font-size: 1.325rem;
 }
 
-.btn.btn-icon:not(.btn-footer) .tim-icons,
+.btn.btn-icon:not(.btn-footer) .olinda-icons,
 .btn.btn-icon:not(.btn-footer) .fa,
 .btn.btn-icon:not(.btn-footer) .far,
 .btn.btn-icon:not(.btn-footer) .fas,
-.navbar .navbar-nav>a.btn.btn-icon:not(.btn-footer) .tim-icons,
+.navbar .navbar-nav>a.btn.btn-icon:not(.btn-footer) .olinda-icons,
 .navbar .navbar-nav>a.btn.btn-icon:not(.btn-footer) .fa,
 .navbar .navbar-nav>a.btn.btn-icon:not(.btn-footer) .far,
 .navbar .navbar-nav>a.btn.btn-icon:not(.btn-footer) .fas {
@@ -13062,8 +13062,8 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
   width: 24px;
 }
 
-.btn:not(.btn-icon) .tim-icons,
-.navbar .navbar-nav>a.btn:not(.btn-icon) .tim-icons {
+.btn:not(.btn-icon) .olinda-icons,
+.navbar .navbar-nav>a.btn:not(.btn-icon) .olinda-icons {
   position: relative;
   top: 1px;
 }
@@ -14169,7 +14169,7 @@ fieldset[disabled] .btn-link.active {
   top: 1px;
 }
 
-.dropdown-menu .tim-icons {
+.dropdown-menu .olinda-icons {
   margin-right: 10px;
   position: relative;
   top: 4px;
@@ -14857,7 +14857,7 @@ img {
   color: #222a42;
 }
 
-.modal-content .modal-header i.tim-icons {
+.modal-content .modal-header i.olinda-icons {
   font-size: 16px;
 }
 
@@ -16080,7 +16080,7 @@ img {
   }
 
   .navbar-nav .nav-link i.fa,
-  .navbar-nav .nav-link i.tim-icons {
+  .navbar-nav .nav-link i.olinda-icons {
     opacity: .5;
   }
 
@@ -17042,7 +17042,7 @@ table.tablesorter thead tr .headerSortDown {
   background: linear-gradient(#222a42, #1d253b);
 }
 
-.fixed-plugin .dropdown .dropdown-menu .tim-icons {
+.fixed-plugin .dropdown .dropdown-menu .olinda-icons {
   top: 5px;
 }
 
@@ -18431,7 +18431,7 @@ a[data-toggle="collapse"][aria-expanded="true"] .caret,
   display: inline-block;
 }
 
-.bd-docs .bd-pages .tim-icons {
+.bd-docs .bd-pages .olinda-icons {
   color: #ffffff;
 }
 
@@ -18495,15 +18495,15 @@ a[data-toggle="collapse"][aria-expanded="true"] .caret,
 
 .bd-docs .bd-pages .datepicker thead th,
 .bd-docs .bd-pages .datepicker table thead th,
-.bd-docs .bd-pages .datepicker .tim-icons,
+.bd-docs .bd-pages .datepicker .olinda-icons,
 .bd-docs table .datepicker thead th,
 .bd-docs table .datepicker table thead th,
-.bd-docs table .datepicker .tim-icons {
+.bd-docs table .datepicker .olinda-icons {
   color: #e14eca;
 }
 
-.bd-docs .bd-pages .picker-switch .tim-icons,
-.bd-docs table .picker-switch .tim-icons {
+.bd-docs .bd-pages .picker-switch .olinda-icons,
+.bd-docs table .picker-switch .olinda-icons {
   color: #e14eca;
 }
 
@@ -19235,8 +19235,8 @@ textarea.form-control:active {
   margin-right: 0;
 }
 
-.input-group-prepend .tim-icons,
-.input-group-append .tim-icons {
+.input-group-prepend .olinda-icons,
+.input-group-append .olinda-icons {
   font-size: 1rem;
 }
 
@@ -20200,7 +20200,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 @media (max-width: 767.98px) {
-  .card.card-chart .card-header .btn-group-toggle .tim-icons {
+  .card.card-chart .card-header .btn-group-toggle .olinda-icons {
     font-size: .875rem;
     top: -1px;
   }
