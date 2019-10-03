@@ -1,9 +1,14 @@
-.tim-row {
+.oli-row {
   margin-bottom: 20px;
 }
 
-.tim-white-buttons {
+.oli-white-buttons {
   background-color: #777777;
+}
+
+option { 
+  /* Whatever color  you want */
+  background-color: pink;
 }
 
 .typography-line {
@@ -27,11 +32,11 @@
   text-transform: none;
 }
 
-.tim-row {
+.oli-row {
   padding-top: 60px;
 }
 
-.tim-row h3 {
+.oli-row h3 {
   margin-top: 0;
 }
 
