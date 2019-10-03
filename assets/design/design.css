@@ -61,7 +61,7 @@
   }
 }
 
-.card.card-upgrade .card-category {
+.card.card-nothing .card-category {
   max-width: 530px;
   margin: 0 auto;
 }
