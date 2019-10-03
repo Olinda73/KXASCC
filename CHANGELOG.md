@@ -4,7 +4,7 @@
 ### Bug Fixing
   - responsive issues
   - changes on RTL Page
-  - added Upgrade to PRO Page
+  - added Nothing is here Page
   - navbar & sidebar fixes
 
 ## [1.0.0] 2018-08-14
