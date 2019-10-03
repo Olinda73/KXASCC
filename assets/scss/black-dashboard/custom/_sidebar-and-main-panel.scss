@@ -787,11 +787,11 @@
     padding: 2px;
 }
 
-.color-swatch-header .pass-fail-item.white .example {
+.color-swatch-header .pass-fail-item.white .pages {
     color: #fff;
 }
 
-.color-swatch-header .pass-fail-item.small .example {
+.color-swatch-header .pass-fail-item.small .pages {
     font-size: 10px;
 }
 
@@ -868,8 +868,8 @@
     background: #97a0af;
 }
 
-.bd-example .row>.col span,
-.bd-example .row>[class^=col-] span{
+.bd-pages .row>.col span,
+.bd-pages .row>[class^=col-] span{
     font-size: $font-size-sm;
     display: block;
     margin: 1rem 0;

@@ -72,7 +72,7 @@ demo = {
       }
     };
 
-    ctx = document.getElementById('lineChartExample').getContext("2d");
+    ctx = document.getElementById('lineChartpages').getContext("2d");
 
     gradientStroke = ctx.createLinearGradient(500, 0, 100, 0);
     gradientStroke.addColorStop(0, '#80b6f4');
