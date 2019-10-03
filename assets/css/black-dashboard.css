@@ -5,10 +5,10 @@
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/black-dashboard
-* Copyright 2019 Creative Tim (https://www.creative-tim.com)
+* Copyright 2019 Olinda (https://www.creative-tim.com)
 
 
-* Coded by Creative Tim
+* Coded by Olinda
 
 =========================================================
 
