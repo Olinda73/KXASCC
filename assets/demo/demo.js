@@ -106,7 +106,7 @@ demo = {
     });
   },
 
-  initDashboardPageCharts: function() {
+  initIndexPageCharts: function() {
 
     gradientChartOptionsConfigurationWithTooltipBlue = {
       maintainAspectRatio: false,
